@@ -1,4 +1,4 @@
-const CACHE_NAME = 'zuotiben-2026-05-25T11-00';
+const CACHE_NAME = 'zuotiben-2026-05-25T11-23';
 const SHELL_FILES = [
   '/',
   '/index.html',
